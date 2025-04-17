@@ -117,6 +117,10 @@ body{
 .aboutbutton{
     display: flex;
     justify-content: center;
+    
+}
+.aboutbutton a{
+    color: black;
 }
    
 
